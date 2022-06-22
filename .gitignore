@@ -1,0 +1,15 @@
+__pycache__
+data/*
+!data/SEMEVAL-2021-task6-corpus
+results/*
+!data/download.sh
+!data/protechn_corpus_eval
+slurm-*
+venv
+.DS_Store
+.idea/
+.ipynb_checkpoints
+config/**/*.cfg.done
+config/**/*.cfg
+config/*.json
+results_*
